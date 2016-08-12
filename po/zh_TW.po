@@ -217,7 +217,7 @@ msgid ""
 "the console to complete the installation process."
 msgstr ""
 "區域安裝正在進行中。您可連至 \n"
-"主控台，以完成安裝程序。"
+"主控台，已完成安裝程序。"
 
 #: ../virt-install:831
 #, c-format
