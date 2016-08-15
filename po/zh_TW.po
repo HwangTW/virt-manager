@@ -5607,7 +5607,7 @@ msgid ""
 "<small>The OS directory tree must already exist. Creating an OS directory tree\n"
 "is not yet supported.</small>"
 msgstr ""
-"<small>作業統目錄上必須已經存在。尚未支援作業系統目錄樹\n"
+"<small>作業統目錄上必須存在。尚未支援作業系統目錄樹\n"
 "的建立動作。</small>"
 
 #: ../ui/create.ui.h:43
